@@ -7,7 +7,7 @@ To make executable these differents scripts, you must make the following changes
 
 file :
 
-03 - **letsencrypt-final.sh** :
+**03 - letsencrypt-final.sh** :
 
 - specify your mail adress to recevie mail advertise (you must install mail server (ssmtp))
 
@@ -20,8 +20,8 @@ file :
 
 Launch in this order :
 
-01 - **create_files.sh** file_with_domains
+**01 - create_files.sh** file_with_domains
 
-02 - **create_inis.sh**
+**02 - create_inis.sh**
 
-03 - **letsencrypt-final.sh**
+**03 - letsencrypt-final.sh**
