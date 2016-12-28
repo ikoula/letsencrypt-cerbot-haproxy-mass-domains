@@ -1,4 +1,4 @@
-# letsencrypt-cerbot-haproxy-mass-domains
+# letsencrypt-certbot-haproxy-mass-domains
 Automatic LetsEncrypt SSL certificates multi domains with HaProxy
 (https://blog.ikoula.com/fr/etude-deploiement-utilisation-certificats-lets-encrypt)
 
